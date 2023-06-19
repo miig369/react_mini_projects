@@ -6,3 +6,4 @@ This repository consists of a collection of React JS mini projects for upskillin
 
 - Random Advice Generator
 - Clock
+- Steps
